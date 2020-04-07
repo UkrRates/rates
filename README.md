@@ -1,4 +1,5 @@
 <h1>Курс валют банків України</h1>
+    <h4>Порівняльна таблиця онлайн-курсів валют доступна у <a href="https://t.me/ukrrates_online">Telegram-каналі @ukrrates_online</a></h4>
     <table>
     <thead><tr><th>Папка</th><th>Банк</th><th>Валюта</th><th>Тип</th><th></th></tr>
     </thead>
